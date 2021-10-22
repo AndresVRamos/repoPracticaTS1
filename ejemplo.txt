@@ -1,1 +1,4 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#!/bin/bash
+
+echo "Siento que todavía hay muchas cosas que aprender sobre Git ya que hemos visto lo más básico de este software."
+ 
